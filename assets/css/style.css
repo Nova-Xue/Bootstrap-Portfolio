@@ -22,5 +22,5 @@ html {
   .card-text{
       background-color: blueviolet;
       position: absolute;
-      bottom: 50px;
+      bottom: 20%;
   }
